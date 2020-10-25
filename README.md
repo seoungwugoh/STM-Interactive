@@ -3,7 +3,7 @@
 ### PAMI 
 [[pami paper]](https://www.dropbox.com/s/z4vfeb5e68catwi/PAMI_STM_Final.pdf?dl=1)
 [[iccv19 paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.html)
-[![Video Object Segmentation using Space-Time Memory Networks (ICCV 2019)](https://img.youtube.com/vi/vVZiBEDmgIU/0.jpg)](https://www.youtube.com/watch?v=vVZiBEDmgIU "Video Object Segmentation using Space-Time Memory Networks (ICCV 2019)")
+
 
 
 ### - Requirements
