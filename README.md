@@ -4,7 +4,7 @@
 [[pami paper]](https://www.dropbox.com/s/z4vfeb5e68catwi/PAMI_STM_Final.pdf?dl=1)
 [[iccv19 paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.html)
 
-
+![screenshot](https://github.com/seoungwugoh/STM-Interactive/blob/master/teaser.png?raw=true)
 
 ### - Requirements
 - python 3.6
